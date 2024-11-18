@@ -1,0 +1,14 @@
+instagram_script.py
+batch_transcribe.py
+collect_best_audio.py
+audio/
+audio_backup/
+backup_transcribed_results/
+chunked_audios/
+vad_chunk_clips.py
+*.png
+*.wav
+transcribe_sample/
+transcribed_results/
+.streamlit/
+sample/
